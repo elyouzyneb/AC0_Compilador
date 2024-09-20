@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\bin\Debug\net8.0\AC0_Compilador.exe
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\bin\Debug\net8.0\AC0_Compilador.deps.json
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\bin\Debug\net8.0\AC0_Compilador.runtimeconfig.json
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\bin\Debug\net8.0\AC0_Compilador.dll
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\bin\Debug\net8.0\AC0_Compilador.pdb
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.AssemblyInfo.cs
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.sourcelink.json
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.dll
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\refint\AC0_Compilador.dll
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.pdb
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\AC0_Compilador.genruntimeconfig.cache
+C:\Users\HP\Downloads\AC0-Compilador\AC0_Compilador\obj\Debug\net8.0\ref\AC0_Compilador.dll
